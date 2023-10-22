@@ -8,4 +8,4 @@ An outfit loosely based on a modern update to the traditional Alsatian outfit.
 Coming Soon
 
 ## Modern Update
-Coming Soon
+![Modern Alsatian](https://github.com/LWFlouisa/PinPalette/blob/main/References/CompleteOutfit.png?raw=true)
