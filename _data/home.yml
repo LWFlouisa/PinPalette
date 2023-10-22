@@ -43,13 +43,13 @@ misc_entries:
     post_list: true
     url: true
 
-  - title: moonwalk on the Internet
+  - title: LWFlouisa can be found at 
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://github.com/LWFlouisa
 
-      - title: originally built for abhinav's homepage
+      - title: Testing for my homepage.
         url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
