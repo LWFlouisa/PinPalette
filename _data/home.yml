@@ -9,9 +9,9 @@ navbar_entries:
     url: https://lwflouisa.github.io/PinPalette
 
 project_entries:
-  - title: "Color Palette"
-    url: "placeholder"
-    desc: "A color palette I just created."
+  - title: "Alsatian Gunmetal"
+    url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/alsatiangunmetal.html"
+    desc: "A color palette loosely based on Alsatian Gunmetal."
 
 #old_project_entries:
   #- title: Soopr
