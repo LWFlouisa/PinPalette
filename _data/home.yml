@@ -13,10 +13,9 @@ project_entries:
     url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/alsatiangunmetal.html"
     desc: "A color palette loosely based on Alsatian Gunmetal."
 
-references:
-  - title: "Modern Alsatian"
-    url: "https://lwflouisa.github.io/PinPalette/References/modernalsatian.html"
-    desc: "An outfit based on a modern update to 19th century Alsatian costumes."
+  - title: "Mobster And The Revolver"
+    url: "Coming Soon"
+    desc: "A color palette for mobsters and guns from 1920s silent films, with blood red as a contrast color."
 
 #old_project_entries:
   #- title: Soopr
