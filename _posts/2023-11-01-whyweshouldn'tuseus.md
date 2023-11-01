@@ -4,11 +4,11 @@ title: "Why We Shouldn't USe Generative AI For Tasks"
 ---
 Imagine being an independant game design team of a Black Metalist, Goth Girl, and a Emo / Scene Girl, and your tasked with making:
 
--- A complete autobiographical band themed JRPG in three months.
--- It must be a tactical turned based RPG like Final Fantasy tactics with dating SIM elements.
--- A speed run is done in 25 minutes, but playable for up to 25 hours if you're a completionist.
--- Customizeable by the user within the Black Metal, Goth, and Emo color palettes.
--- That JRPG must be complete in three installments, and encompass the themes of a music video in each genre:
+-- A complete autobiographical band themed JRPG in three months.<br />
+-- It must be a tactical turned based RPG like Final Fantasy tactics with dating SIM elements.<br />
+-- A speed run is done in 25 minutes, but playable for up to 25 hours if you're a completionist.<br />
+-- Customizeable by the user within the Black Metal, Goth, and Emo color palettes.<br />
+-- That JRPG must be complete in three installments, and encompass the themes of a music video in each genre:<br />
 
 GPTs and other generative AI's typical responce is:
 
