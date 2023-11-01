@@ -21,6 +21,10 @@ project_entries:
     url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/tigersandvipers.html"
     desc: "A world specific organized crime family brought about by the circumstances of the Franco-Japanese Wars."
 
+  - title: "Franco-Japanese War Period"
+    url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/francojapanesewars.html"
+    desc: "The color palette for the civil war between French-loyalist and Japanese-loyalist military during the 2045-2085 period in the United States."
+
 #old_project_entries:
   #- title: Soopr
     #url: https://www.soopr.co
