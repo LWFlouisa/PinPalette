@@ -2,6 +2,7 @@
 layout: post
 title: "Why We Shouldn't USe Generative AI For Tasks"
 ---
+## My Prompt
 Imagine being an independant game design team of a Black Metalist, Goth Girl, and a Emo / Scene Girl, and your tasked with making:
 
 -- A complete autobiographical band themed JRPG in three months.<br />
@@ -12,6 +13,7 @@ Imagine being an independant game design team of a Black Metalist, Goth Girl, an
 
 GPTs and other generative AI's typical responce is:
 
+## Phind's Responce
 Creating a complete autobiographical band-themed JRPG with tactical turn-based RPG elements and dating SIM elements, customizable within the Black Metal, Goth, and Emo color palettes, and divided into three installments, is a massive task. However, it's feasible with careful planning, execution, and collaboration. Here's a step-by-step guide on how you could approach this:
 
 1. **Planning and Designing the Game:**
@@ -49,6 +51,7 @@ Creating a complete autobiographical band-themed JRPG with tactical turn-based R
 Remember, creating a game is a massive undertaking that requires a lot of time, effort, and dedication. But with careful planning and execution, it's definitely achievable. Good luck!
 
 
+## In Conclusion
 The appropriate responce should be, sorry will help you lobby for better working conditions for game designers and webcomic creators.
 
 Not this shit.
