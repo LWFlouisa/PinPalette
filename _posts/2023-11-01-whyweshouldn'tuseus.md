@@ -13,9 +13,6 @@ Imagine being an independant game design team of a Black Metalist, Goth Girl, an
 GPTs and other generative AI's typical responce is:
 
 ~~~
-This should give you an idea of my work load as a webcomic creator. Please do not underestimate the contribution of #webcomic creators.
-
-
 Creating a complete autobiographical band-themed JRPG with tactical turn-based RPG elements and dating SIM elements, customizable within the Black Metal, Goth, and Emo color palettes, and divided into three installments, is a massive task. However, it's feasible with careful planning, execution, and collaboration. Here's a step-by-step guide on how you could approach this:
 
 1. **Planning and Designing the Game:**
