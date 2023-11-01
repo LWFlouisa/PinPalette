@@ -12,7 +12,6 @@ Imagine being an independant game design team of a Black Metalist, Goth Girl, an
 
 GPTs and other generative AI's typical responce is:
 
-~~~
 Creating a complete autobiographical band-themed JRPG with tactical turn-based RPG elements and dating SIM elements, customizable within the Black Metal, Goth, and Emo color palettes, and divided into three installments, is a massive task. However, it's feasible with careful planning, execution, and collaboration. Here's a step-by-step guide on how you could approach this:
 
 1. **Planning and Designing the Game:**
@@ -48,7 +47,8 @@ Creating a complete autobiographical band-themed JRPG with tactical turn-based R
    You can use speedrunning guides and forums as a reference for what aspects of the game need to be sped up or slowed down.
 
 Remember, creating a game is a massive undertaking that requires a lot of time, effort, and dedication. But with careful planning and execution, it's definitely achievable. Good luck!
-~~~
+
+
 The appropriate responce should be, sorry will help you lobby for better working conditions for game designers and webcomic creators.
 
 Not this shit.
