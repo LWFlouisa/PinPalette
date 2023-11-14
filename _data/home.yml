@@ -9,6 +9,10 @@ navbar_entries:
     url: https://lwflouisa.github.io/PinPalette
 
 project_entries:
+  - title: "Basic Color Palettes"
+    url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/BasicPalettes.html"
+    desc: "The basic color palettes that I use, as a prerequisite for understanding my extended color palettes."
+
   - title: "Alsatian Gunmetal"
     url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/alsatiangunmetal.html"
     desc: "A color palette loosely based on Alsatian Gunmetal."
