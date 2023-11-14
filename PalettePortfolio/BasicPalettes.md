@@ -12,7 +12,7 @@ This functions as the base for the Neon Bassanova color palette.
 ### Fashion Palette
 The fashion color palette is similar, except that it's built around matching colors with their respective complementary colors. So someone like Ehena-Marie would be wearing Fuschia if she went by what colors complemented her hair color.
 
-![Fashion Palette]()
+![Fashion Palette](https://github.com/LWFlouisa/PinPalette/blob/main/Images/FashionPalette.png?raw=true)
 
 ### Tiger And Vipers Plaid
 These are the plaid patterns that match with the Tigers and Vipers organized crime ring in my science fiction setting.
