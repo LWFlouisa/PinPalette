@@ -26,4 +26,4 @@ As a side note, gunmetal can also be a shade of Cyan blue as well, which I'll co
 ### Tiger And Vipers Plaid
 These are the plaid patterns that match with the Tigers and Vipers organized crime ring in my science fiction setting. Expanding on a special section for that palette.
 
-![Tigers And Vipers](https://github.com/LWFlouisa/PinPalette/blob/main/Images/AnosWahnsienosEtViperos.png?raw=true))
+![Tigers And Vipers](https://github.com/LWFlouisa/PinPalette/blob/main/Images/AnosWahnsienosEtViperos.png?raw=true)
