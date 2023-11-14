@@ -17,7 +17,11 @@ For instance, if you have a darker hair color, you would wear red and baby blue.
 ![Fashion Palette](https://github.com/LWFlouisa/PinPalette/blob/main/Images/FashionPalette.png?raw=true)
 
 ### Homemade Ink
-![]()
+This is my homemade ink palette, which often gets confused for Dark Academia as well. But these one specifically revolves around murder, and more specifically mercy killing and angels of mercy, that murder their victims with Arsenic, and dress in Gunmetal Grey.
+
+As a side note, gunmetal can also be a shade of Cyan blue as well, which I'll cover in the Vipers And Tigers palette.
+
+![](https://github.com/LWFlouisa/PinPalette/blob/main/Images/MyHomemadeInk.png?raw=true)
 
 ### Tiger And Vipers Plaid
 These are the plaid patterns that match with the Tigers and Vipers organized crime ring in my science fiction setting.
