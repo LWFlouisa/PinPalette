@@ -7,7 +7,7 @@ The original webcomic palette was designed to make use of the limited supply of 
 
 This functions as the base for the Neon Bassanova color palette.
 
-![Webcomic Palette]()
+![Webcomic Palette](https://github.com/LWFlouisa/PinPalette/blob/main/Images/BasicPalette.png?raw=true)
 
 ### Fashion Palette
 The fashion color palette is similar, except that it's built around matching colors with their respective complementary colors. So someone like Ehena-Marie would be wearing Fuschia if she went by what colors complemented her hair color.
