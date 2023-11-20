@@ -29,6 +29,10 @@ project_entries:
     url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/francojapanesewars.html"
     desc: "The color palette for the civil war between French-loyalist and Japanese-loyalist military during the 2045-2085 period in the United States."
 
+  - title: "Immigration Anxieties"
+    url: "https://lwflouisa.github.io/PinPalette/PalettePortfolio/ImmigrationAnxieties.html"
+    desc: "A music video about immigration anxieties."
+
 #old_project_entries:
   #- title: Soopr
     #url: https://www.soopr.co
