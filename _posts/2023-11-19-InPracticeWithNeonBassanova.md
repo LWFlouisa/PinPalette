@@ -7,3 +7,8 @@ In practice with Neon Bassanova, you don't actually use all of the colors availa
 For example, these are for part two, where I need lime or red to emphasis certain persons, places, and things.
 
 ![Paired Down Neon Bassanova](https://github.com/LWFlouisa/PinPalette/blob/main/Images/PairedDownNeonBassanova.png?raw=true)
+
+## Example In Action
+Here the use of red and lime mixed tricks the eye into thinking your seeing more colors than are actually present.
+
+![Plaid Test](https://github.com/LWFlouisa/PinPalette/blob/main/Images/plaidtest.png?raw=true)
