@@ -13,4 +13,4 @@ Later evolution of the Uploaded Fairy Palette:
 
 This is what would eventually be fleshed out into "Neon Bassanova", a French alternative to Dark Academia:
 
-![Neon Bassanova]
+![Neon Bassanova](https://github.com/LWFlouisa/PinPalette/blob/main/Images/panels/drawingtests/PairedDownNeonBassanova.png?raw=true)
