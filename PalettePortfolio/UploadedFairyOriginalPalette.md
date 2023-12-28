@@ -9,7 +9,7 @@ The original color palette I used for the storyboard version:
 Later evolution of the Uploaded Fairy Palette:
 
 ![Hemato-Tomato](https://github.com/LWFlouisa/PinPalette/blob/main/Images/panels/drawingtests/LaterEvolution.png?raw=true)
-![Ehena-Marie](https://github.com/LWFlouisa/PinPalette/blob/main/Images/panels/drawingtests/LaterEvolution.png?raw=true)
+![Ehena-Marie](https://github.com/LWFlouisa/PinPalette/blob/main/Images/panels/drawingtests/LaterEvolution2.png?raw=true)
 
 This is what would eventually be fleshed out into "Neon Bassanova", a French alternative to Dark Academia:
 
