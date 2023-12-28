@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uploaded Fairy Palette Original:
+title: "Uploaded Fairy Palette Original"
 ---
 The original color palette I used for the storyboard version:
 
