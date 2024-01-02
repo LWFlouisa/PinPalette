@@ -3,7 +3,7 @@ title: "Expanding Minetest Painting Palette"
 author: "S.R. Weaver"
 tags: painting colorpalette toscaandgunmetal
 ---
-![Preview]()
+![Preview](https://github.com/LWFlouisa/PinPalette/blob/main/Images/MinetestPalette.png?raw=true)
 
 I've just expanded the color palette available for me to use in minetest:
 
