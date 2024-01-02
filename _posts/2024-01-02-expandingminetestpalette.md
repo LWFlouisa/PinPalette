@@ -46,3 +46,5 @@ Now add these color name to painting.revcolors:
 
     "avacado", "hillary", "chino", "coriander", "vanilla", "heather", "linkwater",
 ~~~
+
+Note however that these colors are a bit more subtle than the ones in the default Minetest painting palette.
