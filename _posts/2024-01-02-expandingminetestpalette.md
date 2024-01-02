@@ -3,6 +3,8 @@ title: "Expanding Minetest Painting Palette"
 author: "S.R. Weaver"
 tags: painting colorpalette toscaandgunmetal
 ---
+![Preview]()
+
 I've just expanded the color palette available for me to use in minetest:
 
 Just as these lines to painting.hexcolors:
