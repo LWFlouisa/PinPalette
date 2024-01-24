@@ -1,11 +1,17 @@
 User-agent: GPTBot
-Disallow: /
+Disallow: /_posts
+Disallow: /Images
+Disallow: /PalettePortfolio
+Disallow: /References
 
 User-agent: ChatGPT-User
-Disallow: /
+Disallow: /_posts
+Disallow: /Images
+Disallow: /PalettePortfolio
+Disallow: /References
 
 User-agent: CCBot
-Disallow: /
-
-User-agent: SMTBot
-Disallow: /
+Disallow: /_posts
+Disallow: /Images
+Disallow: /PalettePortfolio
+Disallow: /References
