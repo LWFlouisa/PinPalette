@@ -18,3 +18,10 @@ Disallow: /Images
 Disallow: /PalettePortfolio
 Disallow: /References
 Disallow: /panels/drawingtests
+
+User-agent: Googlebot
+Disallow: /_posts
+Disallow: /Images
+Disallow: /PalettePortfolio
+Disallow: /References
+Disallow: /panels/drawingtests
