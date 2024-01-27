@@ -1,34 +1,14 @@
 User-agent: GPTBot
-Disallow: /_posts
-Disallow: /Images
-Disallow: /PalettePortfolio
-Disallow: /References
-Disallow: /panels/drawingtests
-
-User-agent: ChatGPT-User
-Disallow: /_posts
-Disallow: /Images
-Disallow: /PalettePortfolio
-Disallow: /References
-Disallow: /panels/drawingtests
-
+Disallow: /
 User-agent: CCBot
-Disallow: /_posts
-Disallow: /Images
-Disallow: /PalettePortfolio
-Disallow: /References
-Disallow: /panels/drawingtests
-
-User-agent: Googlebot
-Disallow: /_posts
-Disallow: /Images
-Disallow: /PalettePortfolio
-Disallow: /References
-Disallow: /panels/drawingtests
-
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
 User-agent: Google-Extended
-Disallow: /_posts
-Disallow: /Images
-Disallow: /PalettePortfolio
-Disallow: /References
-Disallow: /panels/drawingtests
+Disallow: /
+User-agent: Omgilibot
+Disallow: /
+User-Agent: FacebookBot
+Disallow: /
