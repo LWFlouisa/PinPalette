@@ -25,3 +25,10 @@ Disallow: /Images
 Disallow: /PalettePortfolio
 Disallow: /References
 Disallow: /panels/drawingtests
+
+User-agent: Google-Extended
+Disallow: /_posts
+Disallow: /Images
+Disallow: /PalettePortfolio
+Disallow: /References
+Disallow: /panels/drawingtests
